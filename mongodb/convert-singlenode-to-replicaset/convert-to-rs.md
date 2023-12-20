@@ -22,9 +22,8 @@ This script automates the process of converting a standalone MongoDB instance in
 
 1. **Clone the Repository:**
 
-   ```bash
    git clone https://github.com/esaddk/database-tools.git
-   ```
+   
 
 2. **Navigate to the Script Directory:**
 
