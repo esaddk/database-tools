@@ -1,4 +1,3 @@
-```markdown
 # MongoDB Replica Set Initialization Script
 
 ## Overview
@@ -67,4 +66,3 @@ Feel free to contribute to the script by submitting issues or pull requests on t
 ## License
 
 This script is licensed under the [MIT License](LICENSE).
-```
